@@ -1,0 +1,13 @@
+{
+    "sweap": {
+        "iso": "Packages/iso",
+        "deb": "Packages/deb",
+        "gz": "Packages/gz",
+        "jpg": "Pictures/unsorted",
+        "mp4": "Documents/unsorted/mp4",
+        "mp3": "Music/unsorted"
+    },
+    "ignore": {
+        "0": "crdownload"
+    }
+}
